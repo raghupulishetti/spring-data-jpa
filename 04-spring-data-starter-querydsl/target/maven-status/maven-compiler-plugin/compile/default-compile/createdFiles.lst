@@ -1,0 +1,6 @@
+com\raghu\model\Course.class
+com\raghu\model\QUser.class
+com\raghu\model\User.class
+com\raghu\model\QCourse.class
+com\raghu\model\UserCourse.class
+com\raghu\model\QUserCourse.class

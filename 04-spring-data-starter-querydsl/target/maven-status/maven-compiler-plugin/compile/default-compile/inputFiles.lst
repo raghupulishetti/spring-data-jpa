@@ -1,0 +1,11 @@
+E:\workspace\training\spring-data-jpa\04-spring-data-starter-querydsl\src\main\java\com\raghu\repository\UserCourseRepository.java
+E:\workspace\training\spring-data-jpa\04-spring-data-starter-querydsl\src\main\java\com\raghu\client\DataJpaClient.java
+E:\workspace\training\spring-data-jpa\04-spring-data-starter-querydsl\src\main\java\com\raghu\config\ApplicationConfig.java
+E:\workspace\training\spring-data-jpa\04-spring-data-starter-querydsl\src\main\java\com\raghu\model\User.java
+E:\workspace\training\spring-data-jpa\04-spring-data-starter-querydsl\src\main\java\com\raghu\model\Course.java
+E:\workspace\training\spring-data-jpa\04-spring-data-starter-querydsl\target\generated-sources\java\com\raghu\model\QCourse.java
+E:\workspace\training\spring-data-jpa\04-spring-data-starter-querydsl\src\main\java\com\raghu\repository\CourseRepository.java
+E:\workspace\training\spring-data-jpa\04-spring-data-starter-querydsl\target\generated-sources\java\com\raghu\model\QUserCourse.java
+E:\workspace\training\spring-data-jpa\04-spring-data-starter-querydsl\src\main\java\com\raghu\model\UserCourse.java
+E:\workspace\training\spring-data-jpa\04-spring-data-starter-querydsl\src\main\java\com\raghu\repository\UserRepository.java
+E:\workspace\training\spring-data-jpa\04-spring-data-starter-querydsl\target\generated-sources\java\com\raghu\model\QUser.java
